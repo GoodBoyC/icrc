@@ -1032,13 +1032,13 @@ export default function App() {
           <div className="pt-8 flex flex-col md:flex-row items-center justify-between gap-4 text-xs text-neutral-500">
             <div className="flex flex-wrap items-center gap-6">
               <span>© 2026 International Committee of the Red Cross</span>
-              <a href="https://icrc-donate.vercel.app" className="hover:text-white transition font-semibold text-neutral-400">Donate Page</a>
+              <a href="https://icrc-donate.vercel.app" className="hover:text-white transition font-semibold text-neutral-400">Donate </a>
               <a href="#_" onClick={(e) => e.preventDefault()} className="hover:text-white transition">Privacy & Copyright</a>
               <a href="#_" onClick={(e) => e.preventDefault()} className="hover:text-white transition">Fraud alert</a>
               <a href="#_" onClick={(e) => e.preventDefault()} className="hover:text-white transition">Contact us</a>
             </div>
             <div className="text-[11px] text-neutral-400 bg-neutral-800 px-3 py-1 rounded">
-              Logo Refresh Active • All donate clicks route to icrc-donate.vercel.app
+              All rigth reserved
             </div>
           </div>
 
